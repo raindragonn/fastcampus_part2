@@ -1,0 +1,5 @@
+include ':chapter4_calculator'
+include ':chapter3_secret_diary'
+include ':chapter2_lotto'
+include ':app'
+rootProject.name = "fastcampus_part2"

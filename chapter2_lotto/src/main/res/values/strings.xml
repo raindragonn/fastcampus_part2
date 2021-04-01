@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chapter2_lotto</string>
+    <string name="add_lotto_number">번호추가</string>
+    <string name="reset_lotto_number">초기화</string>
+    <string name="create_lotto_number">자동 생성 하기</string>
+</resources>
