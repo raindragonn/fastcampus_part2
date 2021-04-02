@@ -1,3 +1,4 @@
+include ':chapter5_photoframe'
 include ':chapter4_calculator'
 include ':chapter3_secret_diary'
 include ':chapter2_lotto'

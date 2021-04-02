@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chapter5_photoframe</string>
+    <string name="btn_start_photoframe">전자액자 실행하기</string>
+    <string name="btn_photo_add">사진 추가하기</string>
+</resources>
