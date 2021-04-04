@@ -1,3 +1,4 @@
+include ':chapter6_pomodorotimer'
 include ':chapter5_photoframe'
 include ':chapter4_calculator'
 include ':chapter3_secret_diary'
