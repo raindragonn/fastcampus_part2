@@ -12,12 +12,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/chapter2_lotto" />
             <option value="$PROJECT_DIR$/chapter3_secret_diary" />
             <option value="$PROJECT_DIR$/chapter4_calculator" />
             <option value="$PROJECT_DIR$/chapter5_photoframe" />
             <option value="$PROJECT_DIR$/chapter6_pomodorotimer" />
+            <option value="$PROJECT_DIR$/chapter7_audiorecorder" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

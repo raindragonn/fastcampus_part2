@@ -1,7 +1,7 @@
+include ':chapter7_audiorecorder'
 include ':chapter6_pomodorotimer'
 include ':chapter5_photoframe'
 include ':chapter4_calculator'
 include ':chapter3_secret_diary'
 include ':chapter2_lotto'
-include ':app'
 rootProject.name = "fastcampus_part2"
