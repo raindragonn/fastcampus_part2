@@ -1,3 +1,4 @@
+include ':chapter8_simplewebbrowser'
 include ':chapter7_audiorecorder'
 include ':chapter6_pomodorotimer'
 include ':chapter5_photoframe'
